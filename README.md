@@ -6,5 +6,7 @@ Best Model: Grid Logistic
 Best Accuracy: 88%
 <br>
 Models Used: Forest, Random Forest, Logistic, Grid Logistic, Dtree, Dtree Scaler 
+## SS
+![Screenshot 2023-12-08 084656](https://github.com/soumiljainer11/ML/assets/153184452/6cfe7d36-2d51-4423-880c-b955c6a93eea)
 
 
