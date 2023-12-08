@@ -5,7 +5,7 @@ A project that predicts the heart attack chances by feeding the past data to the
 ## Description
 Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
   
-![Screenshot 2023-12-08 145854](https://github.com/soumiljainer11/Heart-Attack-Prediction/assets/153184452/0b5d8bf7-6712-4664-9c2b-28c2959640e9)
+![Screenshot 2023-12-08 145854](https://github.com/soumiljainer11/Heart-Attack-Prediction/assets/153184452/de3ad0bb-26af-4c17-a261-6dd36e698647)
 
 ## Input/Output
 ![Data Collection (2)](https://github.com/soumiljainer11/Heart-Attack-Prediction/assets/153184452/449d2727-a9b4-4d47-93fe-3df2fa79e44b)
